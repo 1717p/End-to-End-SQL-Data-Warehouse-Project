@@ -12,11 +12,6 @@ This project demonstrates the design and implementation of an enterprise-style S
 * Added data validation checks to improve data quality and reliability
 * Documented transformation logic and data lineage to support governance-ready reporting
 
-## Tech Stack
-
-* SQL
-* Python (for ETL automation if applicable — remove if not used)
-* CSV datasets
 
 ## Warehouse Design
 
